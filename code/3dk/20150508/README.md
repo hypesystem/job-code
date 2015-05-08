@@ -8,6 +8,10 @@ The job listing was for a .NET student developer, and the code was---fittingly--
 
 ![Screenshot of job listing site](screenshot.png?raw=true)
 
+Below is a review of the code.
+The original can be read [here](original.cs).
+The refactored code can be read [here](refactored.cs).
+
 -----
 
 ## Using/namespace
