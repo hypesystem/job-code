@@ -7,6 +7,11 @@ As if that wasn't lacking enough in seriousity, the code is also often bad.
 
 This library has the goal of documenting, analysing, and---most of all---shaming these job ads.
 
+**Please note**:
+This project concerns itself with *job listings* written in code, not code challenges.
+There are a lot of good uses for code challenges.
+Job listings in code? Not so much.
+
 Contributing
 ============
 
